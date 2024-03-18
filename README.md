@@ -76,10 +76,10 @@ RegisterNumber: 212223240035
 
 **RTL Schematic**
 **HALF_ADDER**
-<img width="487" alt="half_adder input" src="https://github.com/Ganesh23013987/HALF_ADDER_SUBTRACTOR/assets/147473768/779bb1d4-c380-434d-84c6-9d2702bd7971">
+<img width="950" alt="half_adder circuit dia" src="https://github.com/Ganesh23013987/HALF_ADDER_SUBTRACTOR/assets/147473768/94d026c5-31ab-4b03-8570-402fac8f8582">
 
 **HALF_SUBTRACTER**
-<img width="424" alt="half_subtracter input" src="https://github.com/Ganesh23013987/HALF_ADDER_SUBTRACTOR/assets/147473768/676079f7-c830-463e-b3d9-f2716ca31fa9">
+<img width="944" alt="half_subtracter circuit dia" src="https://github.com/Ganesh23013987/HALF_ADDER_SUBTRACTOR/assets/147473768/45b92357-b627-451f-8987-2b2212e2e8b9">
 
 **Output/TIMING Waveform**
 

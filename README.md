@@ -75,6 +75,7 @@ Developed by: GANESH.D
 RegisterNumber: 212223240035
 
 **RTL Schematic**
+
 **HALF_ADDER**
 <img width="950" alt="half_adder circuit dia" src="https://github.com/Ganesh23013987/HALF_ADDER_SUBTRACTOR/assets/147473768/94d026c5-31ab-4b03-8570-402fac8f8582">
 
